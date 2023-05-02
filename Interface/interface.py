@@ -1,4 +1,4 @@
-from pdfreader import query
+from Interface.pdfreader import query
 import gradio as gr
 
 with gr.Blocks() as interface:
